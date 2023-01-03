@@ -1,3 +1,3 @@
 # testrepo
-Test Repository
+Test Repository\n
 This is a markdown file
